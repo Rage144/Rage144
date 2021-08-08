@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rage144
-- 👀 I’m interested in ... programing and learning new language
+- 👀 I’m interested in ...programing and gaming
 - 🌱 I’m currently learning ...c/c++ and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...negisagar144@gmail.com
